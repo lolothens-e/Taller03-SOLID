@@ -1,0 +1,7 @@
+com\mycompany\tallersolid\ShoppingCart.class
+com\mycompany\tallersolid\Cashier.class
+com\mycompany\tallersolid\PhysicalProduct.class
+com\mycompany\tallersolid\DigitalProduct.class
+com\mycompany\tallersolid\IvaCalculator.class
+com\mycompany\tallersolid\Product.class
+com\mycompany\tallersolid\TallerSolid.class
